@@ -4,29 +4,34 @@ title: "퍼듀정보"
 permalink: /info/
 ---
 
-PKA는 Purdue University에 등록되어 있는 한인 학생 및 연구원, 그리고 그 가족 모두를 구성원으로 하는 Purdue University 한인 학생회 이자 한인회의 역할을 수행합니다.
-
-PKA는 구성원 각각이 다양한 전공분야 정보와 취미, 관심사 등을 서로 교류할 수 있는 기회의 장을 마련하고 있습니다. 현재에도 여러가지의 개별적, 소규모의 모임이나 행사가 이루어지고 있으며, 많은 경우 이러한 모임, 행사의 홍보나 주요 진행 상황 연락이 PKA를 매개로 이루어지고 있습니다.
-
-PKA는 구성원들과 한국의 기업, 연구소, 대학 등과의 가교 역할을 하고 있습니다. 특히 이들의 학교방문 설명회나 채용공보 요청시 장소 예약, 행사 진행 보조, Web Page 게재 및 전체 e-mail을 통한 행사 통보 등을 지원합니다. 이와 관련하여 PKA는 이들로부터 소정의 기부금을 받고 있습니다.
-
-PKA는 Purdue University에서의 학업, 연구활동을 고려하고 있는 분들에게 필요한 정보를 제공하고 있으며, 필요한 경우, 이분들의 현지 정착을 도와드리고 있습니다.
-
-저희 PKA는 별도의 회원모집이나 가입, 탈퇴 등의 절차, 회비 등이 없는 일종의 자원봉사 성격이 강한 조직입니다. 저희는 주로 Facebook Page, Twitter (@PurdueKorean), Web Page (www.purdueka.org) 및 전체 구성원을 대상으로 하는 e-mail을 통해 정보를 공유합니다. 특히 전체 구성원을 대상으로 하는 e-mail의 경우, 오직 저희 PKA만이 발송할 수 있습니다.
-
-여러분의 적극적인 정보제공, 기발한 제안 및 모자란 점에 대한 날카로운 지적을 언제든지 환영합니다. 감사합니다.
+* 룸메이트 및 중고거래 정보는 [여기](#)를 클릭하셔서 확인해주시기를 바랍니다.
+* 리쿠르팅 정보는 아래를 참고바랍니다.
 
 ***
+## 신입생 정보
 
-#### PKA 조직도
+* [정착가이드](https://sites.google.com/view/purduelife/home?authuser=0)
+* [2022 Purdue 한인 신입생 오픈 단체 카톡방](https://open.kakao.com/o/gE63NvJd)
+* [PKA 메일링 리스트 구독하기](https://lists.purdue.edu/mailman/listinfo/pka)
 
-![asdf](/images/org.bmp)
+***
+## Purdue 한인 동아리
+* Korebaps
+* KSEA
+* KUSA
+* PKFC
+* PKTC
+* 작은불꽃
 
 
 ***
-
-#### PKA 회장단 선출
-
-PKA 회장단에 관심과 열정이 있으신 분 누구나 지원하실 수 있습니다. 여러분의 많은 분들의 참여로 더욱 발전하는 PKA를 만드실 수 있으며, 복수지원자는 지원자들과의 자유로운 조율 또는 투표를 통해서 선출됩니다. PKA 차기 회장단으로서 적합한 지원자가 없을 경우, 다음의 학과별 구분에 따라 PKA 회장단이 선출 됩니다.
-
-PKA 회장단 선출 그룹 및 순번
+## 공고
+<div class="container">
+	<div class="row">
+	{% if site.posts.size > 0 %}
+		{% for post in site.posts %}
+			{% include article-content.html %}
+		{% endfor %}
+	{% endif %}
+	</div>
+</div>
