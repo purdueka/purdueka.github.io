@@ -1,26 +1,34 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Purdue Korean Association"
 date:   2018-05-29 18:05:55 +0300
-image:  10.jpg
-tags:   Jekyll
+image:  pmu.jpg
+tags:   main
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# 신입생 정보	
 
-Jekyll also offers powerful support for code snippets:
+##### Purdue KUSA 링크
+https://www.facebook.com/purduekusa/
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+##### 정착가이드
+https://sites.google.com/view/purduelife/home?authuser=0
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+##### 2022 Purdue 한인 신입생 오픈 단체 카톡방
+https://open.kakao.com/o/gE63NvJd
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+##### 2022 Purdue 한인 동아리 소개 PPT
+* 2022-2023-PKA
+* Korebaps
+* KSEA
+* KUSA
+* PKFC
+* PKTC
+* 작은불꽃
+
+
+***
+
+# Sponsors
+
+(대충 사진)

@@ -1,6 +1,9 @@
 .header {
   position: relative;
+  padding-top: 20px;
   height: 100px;
+  display: flex;
+  justify-content: space-between;
 
   .header__overlay {
     position: fixed;
@@ -24,11 +27,15 @@
   }
 }
 
+.banner {
+  text-align: center;
+  color: #fff;
+  font-weight: 700;
+  padding: 10px 20px;
+  background: #99a1db;
+}
+
 .logo {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  transform: translateY(-50%);
   
   .logo__link {
     font-size: 30px;
@@ -47,10 +54,6 @@
 }
 
 .main-nav {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 
   .nav-icon__close {
     display: none;
@@ -75,7 +78,7 @@
       .nav__link {
         display: inline-block;
         padding: 10px 30px;
-        font-size: 14px;
+        font-size: 20px;
         font-weight: 700;
         letter-spacing: 0.5px;
         text-transform: uppercase;
@@ -126,11 +129,7 @@
 }
 
 .nav-buttons {
-  position: absolute;
-  top: 50%;
-  right: 0;
-  transform: translateY(-50%);
-  font-size: 21px;
+  font-size: 32px;
   
   .nav__icon {
     color: $dark;
