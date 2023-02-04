@@ -1,0 +1,304 @@
+- name: 이동훈
+  name_us: DongHun Lee
+  major: Semiconductor
+  email: lee1012@purdue.edu
+  role: PKA 회장
+  role_us: PKA President
+  image: 이동훈.jpeg
+
+- name: 이석천
+  name_us: Seokcheon Lee
+  major: Associate Prof. of Industrial Engr.
+  email: stonesky@purdue.edu
+  role: PKA 지도교수
+  role_us: PKA Advisor
+  image: 이석천.jpeg
+
+- name: 강성엽
+  name_us: Lt. Song Kang
+  major: Purdue Univ. Police Dept.
+  email: sykang2@purdue.edu
+  role: PKA 대학경찰고문
+  role_us: Community Policing Advisor
+  image: 강성엽.jpeg
+
+- name: 김준호
+  name_us: Jun Ho Kim
+  major: Environmental Engineering
+  email: kim1969@purdue.edu
+  role: PKA 부회장
+  role_us: PKA Vice President
+  image: 김준호.jpeg
+
+- name: 엄상훈
+  name_us: Sang Hoon Um
+  major: Biomedical engineering
+  email: ums@purdue.edu
+  role: PKA 부회장
+  role_us: PKA Vice President
+  image: 엄상훈.jpeg
+
+- name: 장교철
+  name_us: Kyochul Jang
+  major: Computer Science
+  email: jang128@purdue.edu
+  role: 리크루팅 팀장
+  role_us: Recruiting Manager
+  image: 장교철.jpeg
+
+- name: 장준
+  name_us: Jun Jang
+  major: Doctor of Pharmacy
+  email: jang91@purdue.edu
+  role: 리크루팅
+  role_us: Recruiting
+  image: 장준.jpeg
+
+- name: 안예주
+  name_us: Stephanie Ahn
+  major: Data Science
+  email: ahn92@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 안예주.jpeg
+
+- name: 하혜림
+  name_us: Hyerim Ha
+  major: Public Relations and Strategic Communication
+  email: ha81@purdue.edu
+  role: 리크루팅
+  role_us: Recruiting
+  image: 하혜림.jpeg
+
+- name: 이수아
+  name_us: Sooa Lee
+  major: Industrial Engineering
+  email: lee3487@purdue.edu
+  role: 리크루팅
+  role_us: Recruiting
+  image: 이수아.jpeg
+
+- name: 김태균
+  name_us: Taegyun Kim
+  major: Electrical Engineering
+  email: kim2705@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 김태균.jpeg
+
+- name: 조서영
+  name_us: Seoyoung Cho
+  major: Computer Engineering
+  email: cho411@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 조서영.jpeg
+
+- name: 최현수
+  name_us: Hyunsoo Choi
+  major: Electrical and computer engineering
+  email: choi727@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 최현수.jpeg
+
+- name: 김희수
+  name_us: Heesoo Kim
+  major: Computer Engineering
+  email: kim2903@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 김희수.jpeg
+
+- name: 임해나
+  name_us: Hannah Butler
+  major: Hospitality and Tourism Management
+  email: butle257@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 임해나.jpeg
+
+- name: 임재형
+  name_us: Jaehyung Lim
+  major: Doctor of Pharmacy
+  email: lim264@purdue.edu
+  role: 대외협력 및 재정관리 팀장
+  role_us: Outsourcing and Financing Manager
+  image: 임재형.jpeg
+
+- name: 위수연
+  name_us: Suhyeon We
+  major: Doctor of Pharmacy
+  email: we@purdue.edu
+  role: 대외협력 및 재정관리 부팀장
+  role_us: Outsourcing and Financing Manager
+  image: 위수연.jpeg
+
+- name: 최예린
+  name_us: Yerin Choi
+  major: Doctor of Pharmacy
+  email: choi568@purdue.edu
+  role: 대외협력 및 재정관리
+  role_us: Outsourcing and Financing
+  image: 최예린.jpeg
+
+- name: 곽혜지
+  name_us: Hyeji Kwak
+  major: Aviation and Aerospace Management
+  email: kwak24@purdue.edu
+  role: 대외협력 및 재정관리
+  role_us: Outsourcing and Financing
+  image: 곽혜지.jpeg
+
+- name: 기재현
+  name_us: Jaehyun Kee
+  major: Data Science
+  email: jkee@purdue.edu
+  role: 웹 & 미디어 팀장
+  role_us: Web  Media Manager
+  image: 기재현.jpeg
+
+- name: 김성우
+  name_us: Sungwoo Kim
+  major: Computer Science
+  email: sk@purdue.edu
+  role: 웹 & 미디어 부팀장
+  role_us: Web & Media Manager
+  image: 김성우.jpeg
+
+- name: 유두희
+  name_us: Duhee Yu
+  major: Marketing
+  email: yu991@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web & Media
+  image: 유두희.jpeg
+
+- name: 안은혜
+  name_us: Eunhye Ahn
+  major: Data analytics technology and application
+  email: ahn126@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web & Media
+  image: 안은혜.jpeg
+
+- name: 지예원
+  name_us: Yewon Ji
+  major: Professional Flight
+  email: ji176@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web & Media
+  image: 지예원.jpeg
+
+- name: 이정선
+  name_us: Jungsun Lee
+  major: Media Communication
+  email: lee3827@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web & Media
+  image: 이정선.jpeg
+
+- name: 여기수
+  name_us: Gisu Yeo
+  major: Computer Science
+  email: gyeo@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web & Media
+  image: 여기수.jpeg
+
+- name: 김지우
+  name_us: Rachel
+  major: Electrical Engineering
+  email: kim2999@purdue.edu
+  role: 회계 팀장
+  role_us: Treasurery Manager
+  image: 김지우.jpeg
+
+- name: 서다윤
+  name_us: Dayoon Suh
+  major: Data Science
+  email: suh65@purdue.edu
+  role: 회계 부팀장
+  role_us: Treasurery Manager
+  image: 서다윤.jpeg
+
+- name: 이지우
+  name_us: Jiwoo Lee
+  major: Cybersecurity
+  email: lee4189@purdue.edu
+  role: 회계
+  role_us: Treasurer
+  image: 이지우.jpeg
+
+- name: 라혜림
+  name_us: Hyerim Ra
+  major: Animal Sciences
+  email: hra@purdue.edu
+  role: 이벤트 팀장
+  role_us: Event Manager
+  image: 라혜림.jpeg
+
+- name: 최준수
+  name_us: Harry Choi
+  major: Mechanical Engineering Technology
+  email: choi509@purdue.edu
+  role: 이벤트 부팀장
+  role_us: Event Manager
+  image: 최준수.jpeg
+
+- name: 홍현석
+  name_us: Hyunseok Hong
+  major: Electrical Engineering
+  email: hong274@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 홍현석.jpeg
+
+- name: 정재욱
+  name_us: Jaewook Chung
+  major: Computer Information Technology
+  email: chung265@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 정재욱.jpeg
+
+- name: 강주은
+  name_us: Jooeun Kang
+  major: Public Relations and Strategic Communication
+  email: kang434@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 강주은.jpeg
+
+- name: 민지인
+  name_us: Jiin Min
+  major: Data Science
+  email: min100@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 민지인.jpeg
+
+- name: 조현우
+  name_us: Hyunwoo Cho
+  major: Civil Engineering
+  email: cho422@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 조현우.jpeg
+
+- name: 오명
+  name_us: Myoung Oh
+  major: Computer and Information Technology
+  email: oh278@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 오명.jpeg
+
+- name: 정유진
+  name_us: Yoojin Jeong
+  major: Hospitality and Tourism Management
+  email: jeong186@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 정유진.jpeg
+

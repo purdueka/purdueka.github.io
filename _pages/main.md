@@ -17,9 +17,9 @@ PKA는 퍼듀 재학생, 연구원, 그리고 그 가족분들을 위해 봉사�
 특히, 학교방문 설명회 및 채용공고 시, 장소 예약, 진행 보조, 그리고 Web Page와 메일링리스트를 이용한 행사 홍보를 지원드리고 있습니다.
 이와 관련하여 PKA는 소정의 기부금을 받고 있습니다.
 
-대내적으로는 구성원 간 친목 도모와 학술교류를 매개하고 있습니다. 신입생을 위한 Welcoming Night, 가을체육대회, 그리고 ~~~등을 진행하고 있으며, 필요한 경우, 현지 정착 또한 도와드리고 있습니다.
+대내적으로는 구성원 간 친목 도모와 학술교류를 매개하고 있습니다. 신입생을 위한 Welcoming Night, 가을체육대회, 그리고 신년회등을 진행하고 있으며, 필요한 경우, 현지 정착 또한 도와드리고 있습니다.
 
-Instagram(@pka_boilerup), Facebook, Twitter (@PurdueKorean), Web Page (purdueka.org), 그리고 메일링리스트로 정보를 공유합니다.
+Instagram(@pka_boilerup), Facebook, Twitter (@PurdueKorean), Web Page (purdueka.org), 그리고 메일링리스트로 정보를 공유드립니다.
 
 여러분의 적극적인 정보제공, 기발한 제안 및 모자란 점에 대한 날카로운 지적을 언제든지 환영합니다. 감사합니다.
 
@@ -28,4 +28,26 @@ Instagram(@pka_boilerup), Facebook, Twitter (@PurdueKorean), Web Page (purdueka.
 ***
 # Sponsors
 
-(대충 사진)
+<center> <h2>Gold Sponsor</h2> </center>
+
+![경동나비엔](/images/경동나비엔.png)
+![LG디스플레이](/images/LG디스플레이.jpg)
+
+---
+
+<center> <h2>Silver Sponsor</h2> </center>
+
+![현대자동차](/images/현대자동차.png)
+![DSC](/images/DSC.png)
+![SK이노베이션](/images/SK이노베이션.png)
+![SKon](/images/SKon.png)
+
+---
+
+<center> <h2>Bronze Sponsor</h2> </center>
+
+![Kimchi](/images/Kimchi.png)
+![삼성SDI](/images/삼성SDI.png)
+![레드망고](/images/레드망고.png)
+![삼성전자](/images/삼성전자.png)
+![LGAI리서치](/images/LGAI리서치.jpg)

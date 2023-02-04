@@ -13,22 +13,29 @@ permalink: /team/
 
 ***
 
+<style>
+.desc {
+  margin: 0;
+}
+</style>
+
 <div class="hero">
   <div class="container">
     <div class="row">
-      <div class="col col-6 col-t-12 last-item">
+    {% for member in site.data.member %}
+      <div class="col col-12 col-md-6 col-lg-4">
         <div class="hero__content">
           <div class="hero__image">
-            <img src="{{site.baseurl}}/images/{{ site.data.member-2022.member.image }}" alt="">
+            <img src="{{site.baseurl}}/images/{{ member.image }}" alt="{{ member.name }}의 사진">
           </div>
-          <h1 class="hero__title">{{ site.data.member-2022.member.name }}</h1>
-          <p class="hero__subtitle">{{ site.data.member-2022.member.name }}</p>
-          <div class="hero__social">
-            <span class="hero__social-title">Follow Me |</span>
-            {% include contact-link.html %}
-          </div>
+          <p class="desc">{{ member.role }}</p>
+          <p class="desc">{{ member.role_us }}</p>
+          <p class="desc"><strong>{{ member.name }}({{ member.name_us }})</strong></p>
+          <p class="desc">{{ member.major }}</p>
+          <p class="desc"><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
         </div>
       </div>
+    {% endfor %}
     </div>
   </div>
 </div>
