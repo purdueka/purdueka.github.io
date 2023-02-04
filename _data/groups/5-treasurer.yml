@@ -1,0 +1,24 @@
+
+- name: 김지우
+  name_us: Rachel
+  major: Electrical Engineering
+  email: kim2999@purdue.edu
+  role: 회계 팀장
+  role_us: Treasurery Manager
+  image: 김지우.jpeg
+
+- name: 서다윤
+  name_us: Dayoon Suh
+  major: Data Science
+  email: suh65@purdue.edu
+  role: 회계 부팀장
+  role_us: Treasurery Manager
+  image: 서다윤.jpeg
+
+- name: 이지우
+  name_us: Jiwoo Lee
+  major: Cybersecurity
+  email: lee4189@purdue.edu
+  role: 회계
+  role_us: Treasurer
+  image: 이지우.jpeg

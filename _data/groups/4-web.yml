@@ -1,0 +1,56 @@
+
+- name: 기재현
+  name_us: Jaehyun Kee
+  major: Data Science
+  email: jkee@purdue.edu
+  role: 웹 & 미디어 팀장
+  role_us: Web  Media Manager
+  image: 기재현.jpeg
+
+- name: 김성우
+  name_us: Sungwoo Kim
+  major: Computer Science
+  email: sk@purdue.edu
+  role: 웹 & 미디어 부팀장
+  role_us: Web & Media Manager
+  image: 김성우.jpeg
+
+- name: 유두희
+  name_us: Duhee Yu
+  major: Marketing
+  email: yu991@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web & Media
+  image: 유두희.jpeg
+
+- name: 안은혜
+  name_us: Eunhye Ahn
+  major: Data analytics technology and application
+  email: ahn126@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web & Media
+  image: 안은혜.jpeg
+
+- name: 지예원
+  name_us: Yewon Ji
+  major: Professional Flight
+  email: ji176@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web & Media
+  image: 지예원.jpeg
+
+- name: 이정선
+  name_us: Jungsun Lee
+  major: Media Communication
+  email: lee3827@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web & Media
+  image: 이정선.jpeg
+
+- name: 여기수
+  name_us: Gisu Yeo
+  major: Computer Science
+  email: gyeo@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web & Media
+  image: 여기수.jpeg

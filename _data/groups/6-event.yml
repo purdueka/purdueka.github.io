@@ -1,0 +1,72 @@
+- name: 라혜림
+  name_us: Hyerim Ra
+  major: Animal Sciences
+  email: hra@purdue.edu
+  role: 이벤트 팀장
+  role_us: Event Manager
+  image: 라혜림.jpeg
+
+- name: 최준수
+  name_us: Harry Choi
+  major: Mechanical Engineering Technology
+  email: choi509@purdue.edu
+  role: 이벤트 부팀장
+  role_us: Event Manager
+  image: 최준수.jpeg
+
+- name: 홍현석
+  name_us: Hyunseok Hong
+  major: Electrical Engineering
+  email: hong274@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 홍현석.jpeg
+
+- name: 정재욱
+  name_us: Jaewook Chung
+  major: Computer Information Technology
+  email: chung265@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 정재욱.jpeg
+
+- name: 강주은
+  name_us: Jooeun Kang
+  major: Public Relations and Strategic Communication
+  email: kang434@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 강주은.jpeg
+
+- name: 민지인
+  name_us: Jiin Min
+  major: Data Science
+  email: min100@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 민지인.jpeg
+
+- name: 조현우
+  name_us: Hyunwoo Cho
+  major: Civil Engineering
+  email: cho422@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 조현우.jpeg
+
+- name: 오명
+  name_us: Myoung Oh
+  major: Computer and Information Technology
+  email: oh278@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 오명.jpeg
+
+- name: 정유진
+  name_us: Yoojin Jeong
+  major: Hospitality and Tourism Management
+  email: jeong186@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 정유진.jpeg
+

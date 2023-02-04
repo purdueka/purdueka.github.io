@@ -14,31 +14,42 @@ permalink: /team/
 ***
 
 <style>
+.profile_wrapper {
+  height: 300px;
+  overflow: hidden;
+}
+.profile {
+  width: 100%;
+  object-fit: contain;
+  object-position: 50% 50%;
+}
 .desc {
   margin: 0;
 }
 </style>
 
-<div class="hero">
-  <div class="container">
-    <div class="row">
-    {% for member in site.data.member %}
-      <div class="col col-12 col-md-6 col-lg-4">
-        <div class="hero__content">
-          <div class="hero__image">
-            <img src="{{site.baseurl}}/images/{{ member.image }}" alt="{{ member.name }}의 사진">
-          </div>
-          <p class="desc">{{ member.role }}</p>
-          <p class="desc">{{ member.role_us }}</p>
-          <p class="desc"><strong>{{ member.name }}({{ member.name_us }})</strong></p>
-          <p class="desc">{{ member.major }}</p>
-          <p class="desc"><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+<div class="container">
+  {% for group in site.data.groups %}
+  <div class="row">
+  {% assign g = group[1] %}
+  {% for member in g %}
+    <div class="col col-12 col-md-6 col-lg-4">
+      <div class="hero__content">
+        <div class="profile_wrapper">
+          <img class="profile" src="{{site.baseurl}}/images/{{ member.image }}" alt="{{ member.name }}의 사진">
         </div>
+        <p class="desc">{{ member.role }}</p>
+        <p class="desc">{{ member.role_us }}</p>
+        <p class="desc"><strong>{{ member.name }}({{ member.name_us }})</strong></p>
+        <p class="desc">{{ member.major }}</p>
+        <p class="desc"><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
       </div>
-    {% endfor %}
     </div>
+  {% endfor %}
   </div>
+  {% endfor %}
 </div>
+
 
 ***
 

@@ -1,0 +1,31 @@
+- name: 임재형
+  name_us: Jaehyung Lim
+  major: Doctor of Pharmacy
+  email: lim264@purdue.edu
+  role: 대외협력 및 재정관리 팀장
+  role_us: Outsourcing and Financing Manager
+  image: 임재형.jpeg
+
+- name: 위수연
+  name_us: Suhyeon We
+  major: Doctor of Pharmacy
+  email: we@purdue.edu
+  role: 대외협력 및 재정관리 부팀장
+  role_us: Outsourcing and Financing Manager
+  image: 위수연.jpeg
+
+- name: 최예린
+  name_us: Yerin Choi
+  major: Doctor of Pharmacy
+  email: choi568@purdue.edu
+  role: 대외협력 및 재정관리
+  role_us: Outsourcing and Financing
+  image: 최예린.jpeg
+
+- name: 곽혜지
+  name_us: Hyeji Kwak
+  major: Aviation and Aerospace Management
+  email: kwak24@purdue.edu
+  role: 대외협력 및 재정관리
+  role_us: Outsourcing and Financing
+  image: 곽혜지.jpeg

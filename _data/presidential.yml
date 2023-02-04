@@ -1,0 +1,39 @@
+- name: 이동훈
+  name_us: DongHun Lee
+  major: Semiconductor
+  email: lee1012@purdue.edu
+  role: PKA 회장
+  role_us: PKA President
+  image: 이동훈.jpeg
+
+- name: 이석천
+  name_us: Seokcheon Lee
+  major: Associate Prof. of Industrial Engr.
+  email: stonesky@purdue.edu
+  role: PKA 지도교수
+  role_us: PKA Advisor
+  image: 이석천.jpeg
+
+- name: 강성엽
+  name_us: Lt. Song Kang
+  major: Purdue Univ. Police Dept.
+  email: sykang2@purdue.edu
+  role: PKA 대학경찰고문
+  role_us: Community Policing Advisor
+  image: 강성엽.jpeg
+
+- name: 김준호
+  name_us: Jun Ho Kim
+  major: Environmental Engineering
+  email: kim1969@purdue.edu
+  role: PKA 부회장
+  role_us: PKA Vice President
+  image: 김준호.jpeg
+
+- name: 엄상훈
+  name_us: Sang Hoon Um
+  major: Biomedical engineering
+  email: ums@purdue.edu
+  role: PKA 부회장
+  role_us: PKA Vice President
+  image: 엄상훈.jpeg

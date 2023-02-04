@@ -1,0 +1,79 @@
+- name: 장교철
+  name_us: Kyochul Jang
+  major: Computer Science
+  email: jang128@purdue.edu
+  role: 리크루팅 팀장
+  role_us: Recruiting Manager
+  image: 장교철.jpeg
+
+- name: 장준
+  name_us: Jun Jang
+  major: Doctor of Pharmacy
+  email: jang91@purdue.edu
+  role: 리크루팅
+  role_us: Recruiting
+  image: 장준.jpeg
+
+- name: 안예주
+  name_us: Stephanie Ahn
+  major: Data Science
+  email: ahn92@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 안예주.jpeg
+
+- name: 하혜림
+  name_us: Hyerim Ha
+  major: Public Relations and Strategic Communication
+  email: ha81@purdue.edu
+  role: 리크루팅
+  role_us: Recruiting
+  image: 하혜림.jpeg
+
+- name: 이수아
+  name_us: Sooa Lee
+  major: Industrial Engineering
+  email: lee3487@purdue.edu
+  role: 리크루팅
+  role_us: Recruiting
+  image: 이수아.jpeg
+
+- name: 김태균
+  name_us: Taegyun Kim
+  major: Electrical Engineering
+  email: kim2705@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 김태균.jpeg
+
+- name: 조서영
+  name_us: Seoyoung Cho
+  major: Computer Engineering
+  email: cho411@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 조서영.jpeg
+
+- name: 최현수
+  name_us: Hyunsoo Choi
+  major: Electrical and computer engineering
+  email: choi727@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 최현수.jpeg
+
+- name: 김희수
+  name_us: Heesoo Kim
+  major: Computer Engineering
+  email: kim2903@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 김희수.jpeg
+
+- name: 임해나
+  name_us: Hannah Butler
+  major: Hospitality and Tourism Management
+  email: butle257@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 임해나.jpeg
