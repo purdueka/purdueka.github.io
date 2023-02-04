@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Team"
-permalink: /team/
+title: "PKA"
+permalink: /pka/
 ---
 
 # PKA 한인회 임원 (2022 ~ 2023)
