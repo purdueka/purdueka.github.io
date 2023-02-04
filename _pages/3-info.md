@@ -16,9 +16,10 @@ permalink: /info/
 
 ***
 ## Purdue 한인 동아리
-* Korebaps
-* KSEA
-* KUSA
-* PKFC
-* PKTC
-* 작은불꽃
+* PKA - [\[PPT\]](/assets/2022-2023-PKA-1.pdf)
+* Korebaps - [\[PPT\]](/assets/Korebaps-1.pdf)
+* KSEA - [\[PPT\]](/assets/KSEA-2.pdf)
+* KUSA - [\[PPT\]](/assets/KUSA-1.pdf)
+* PKFC - [\[PPT\]](/assets/PKFC-1.pdf)
+* PKTC - [\[PPT\]](/assets/PKTC-1.pdf)
+* 작은불꽃 - [\[PPT\]](/assets/작은불꽃-1.pdf)
