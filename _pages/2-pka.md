@@ -6,7 +6,7 @@ permalink: /pka/
 
 # PKA 한인회 임원 (2022 ~ 2023)
 
-이전 임원 정보는 [여기](https://purdueka.org/?page_id=19339)에서 확인해주세요
+이전 임원 정보는 [여기](https://b.purdueka.org/?page_id=19339){:target="_blank"}에서 확인해주세요
 
 ## PKA 조직도
 
