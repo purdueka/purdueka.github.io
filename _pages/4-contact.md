@@ -13,7 +13,7 @@ Let us know your suggestions, comments and concerns by sending an email.
 * 후원사 광고 문의 (advertising) : pka@purdueka.org
 * 홈페이지 문의 (website) : webmaster@purdueka.org
 
-* 페이스북 페이지 (Facebook Page) : https://www.facebook.com/PurdueKoreanAssociation
+* 페이스북 페이지 (Facebook Page) : [#PurdueKoreanAssosiation](https://www.facebook.com/PurdueKoreanAssociation)
 * 인스타그램 페이지 (Instagram Page) : [@pka_boilerup](https://instagram.com/pka_boilerup)
 * [PKA 메일링 리스트 구독하기](https://lists.purdue.edu/mailman/listinfo/pka)
 
