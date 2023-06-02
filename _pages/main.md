@@ -26,6 +26,7 @@ Instagram(@pka_boilerup), Facebook, Twitter (@PurdueKorean), Web Page (purdueka.
 퍼듀 한인 학생회 올림.
 
 ***
+
 # Sponsors
 
 <center> <h2>Gold Sponsor</h2> </center>
