@@ -24,3 +24,4 @@ permalink: /info/
 * PKFC - [\[PPT\]](/assets/PKFC-1.pdf)
 * PKTC - [\[PPT\]](/assets/PKTC-1.pdf)
 * 작은불꽃 - [\[PPT\]](/assets/작은불꽃-1.pdf)
+* 퍼듀제자감리교회 - [\[PPT\]](/assets/퍼듀제자감리교회.pdf)
