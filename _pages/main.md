@@ -38,17 +38,24 @@ Instagram(@pka_boilerup), Facebook, Twitter (@PurdueKorean), Web Page (purdueka.
 
 <center> <h2>Silver Sponsor</h2> </center>
 
-![현대자동차](/images/현대자동차.png)
-![DSC](/images/DSC.png)
-![SK이노베이션](/images/SK이노베이션.png)
-![SKon](/images/SKon.png)
+<!-- ![현대자동차](/images/현대자동차.png) -->
+<!-- ![DSC](/images/DSC.png) -->
+<!-- ![SK이노베이션](/images/SK이노베이션.png) -->
+<!-- ![SKon](/images/SKon.png) -->
+
+<img src="/images/현대자동차.png" alt="현대자동차" width="400"/>
+<img src="/images/DSC.png" alt="DSC" width="300"/>
+<img src="/images/SK이노베이션.png" alt="SK이노베이션" width="400"/>
+<img src="/images/SKon.png" alt="SKon" width="300"/>
 
 ---
 
 <center> <h2>Bronze Sponsor</h2> </center>
 
-![Kimchi](/images/Kimchi.png)
-![삼성SDI](/images/삼성SDI.png)
-![레드망고](/images/레드망고.png)
-![삼성전자](/images/삼성전자.png)
-![LGAI리서치](/images/LGAI리서치.jpg)
+<!-- ![Kimchi](/images/Kimchi.png) -->
+<img src="/images/삼성SDI.png" alt="삼성SDI" width="200"/>
+<!-- ![레드망고](/images/레드망고.png) -->
+<img src="/images/삼성전자.png" alt="삼성전자" width="200"/>
+<img src="/images/LGAI리서치.jpg" alt="LGAI리서치" width="200"/>
+<!-- ![삼성전자](/images/삼성전자.png)
+![LGAI리서치](/images/LGAI리서치.jpg) -->
