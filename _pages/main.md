@@ -43,8 +43,10 @@ Instagram(@pka_boilerup), Facebook, Twitter (@PurdueKorean), Web Page (purdueka.
 <!-- ![SK이노베이션](/images/SK이노베이션.png) -->
 <!-- ![SKon](/images/SKon.png) -->
 
-<img src="/images/현대자동차.png" alt="현대자동차" width="400"/>
-<img src="/images/DSC.png" alt="DSC" width="300"/>
+<div>
+<img src="/images/현대자동차.png" alt="현대자동차" width="400" style="float: none;"/>
+<img src="/images/DSC.png" alt="DSC" width="300" style="float: none;"/>
+</div>
 <img src="/images/SK이노베이션.png" alt="SK이노베이션" width="400"/>
 <img src="/images/SKon.png" alt="SKon" width="300"/>
 

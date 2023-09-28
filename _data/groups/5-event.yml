@@ -1,0 +1,71 @@
+- name: 오명
+  name_us: Myoung oh
+  major: Computer and information technology 
+  email: Oh278@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 2324/오명.jpeg
+
+- name: 김준우
+  name_us: Daniel Kim
+  major: Mechanical Engineering
+  email: kim4083@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 2324/김준우.jpeg
+
+- name: 양소민
+  name_us: Somin Yang
+  major: Finance
+  email: yang2339@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 2324/양소민.jpeg
+
+- name: 민지인
+  name_us: Jiin Min
+  major: Data Science
+  email: min100@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 2324/민지인.jpeg
+
+- name: 육도경
+  name_us: Peter Yuk
+  major: Computer Science
+  email: dyuk@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 2324/육도경.jpeg
+
+- name: 송채헌
+  name_us: Dennis Sawng
+  major: First Year Engineering
+  email: csawng@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 2324/송채헌.jpeg
+
+- name: 김유민
+  name_us: Yumin Kim
+  major: Integrated Business & Engineering
+  email: kim3734@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 2324/김유민.jpeg
+
+- name: 조현우
+  name_us: Hyunwoo Cho
+  major: Civil Engineering
+  email: cho422@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 2324/조현우.jpeg
+
+- name: 정유진
+  name_us: Yoojin Jeong
+  major: Hospitality and Tourism Management
+  email: jeong186@purdue.edu
+  role: 이벤트
+  role_us: Event
+  image: 2324/정유진.jpeg

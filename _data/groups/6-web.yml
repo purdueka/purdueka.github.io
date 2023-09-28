@@ -1,0 +1,59 @@
+- name: 홍서연
+  name_us: Seoyeon Hong
+  major: Doctor of Pharmacy
+  email: hong309@purdue.edu
+  role: 웹 & 미디어 팀장
+  role_us: Web Media Manager
+  image: 2324/홍서연.jpeg
+
+- name: 김성우
+  name_us: Sungwoo Kim
+  major: Computer Science
+  email: kim3583@purdue.edu
+  role: 웹 & 미디어 부팀장
+  role_us: Web Media
+  image: 김성우.jpeg
+
+- name: 여기수
+  name_us: Gisu Yeo
+  major: Computer Science
+  email: gyeo@purdue.edu
+  role: 웹 & 미디어 부팀장
+  role_us: Web & Media Manager
+  image: 여기수.jpeg
+
+- name: 지예원
+  name_us: Yewon Ji
+  major: Professional Flight and CNIT
+  email: ji176@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web Media
+  image: 2324/지예원.JPG
+
+
+- name: 장교철
+  name_us: Kyochul Jang
+  major: Computer Science
+  email: jang128@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web Media
+  image: 2324/장교철.jpg
+
+
+- name: 이일훈
+  name_us: Ilhoon Lee
+  major: Computer Science
+  email: lee3252@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web Media
+  image: 2324/이일훈.jpg
+
+
+- name: 이수아
+  name_us: Sophia Lee
+  major: Industrial Engineering
+  email: lee3487@purdue.edu
+  role: 웹 & 미디어
+  role_us: Web Media
+  image: 2324/이수아.png
+

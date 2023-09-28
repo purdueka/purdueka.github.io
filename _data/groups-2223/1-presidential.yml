@@ -1,10 +1,10 @@
-- name: 임재형
-  name_us: Jaehyung Lim
-  major: Doctor of Pharmacy
-  email: lim264@purdue.edu
+- name: 이동훈
+  name_us: DongHun Lee
+  major: Semiconductor
+  email: lee1012@purdue.edu
   role: PKA 회장
   role_us: PKA President
-  image: 2324/임재형.jpeg
+  image: 이동훈.jpeg
 
 - name: 이석천
   name_us: Seokcheon Lee
@@ -22,18 +22,18 @@
   role_us: Community Policing Advisor
   image: 강성엽.jpeg
 
-- name: 위수현
+- name: 김준호
   name_us: Jun Ho Kim
   major: Environmental Engineering
   email: kim1969@purdue.edu
   role: PKA 부회장
   role_us: PKA Vice President
-  image: 2324/위수현.png
+  image: 김준호.jpeg
 
-- name: 홍현석
+- name: 엄상훈
   name_us: Sang Hoon Um
   major: Biomedical engineering
   email: ums@purdue.edu
   role: PKA 부회장
   role_us: PKA Vice President
-  image: 2324/홍현석.png
+  image: 엄상훈.jpeg

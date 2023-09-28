@@ -1,0 +1,71 @@
+- name: 오승근
+  name_us: Aiden Oh
+  major: Computer Engineering
+  email: oh183@purdue.edu
+  role: 리쿠르팅 팀장
+  role_us: Recruiting Manager
+  image: 2324/오승근.jpeg
+
+- name: 김우식
+  name_us: Woosik Kim
+  major: Computer Engineering
+  email: kim3124@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 2324/김우식.jpeg
+
+- name: 윤민채
+  name_us: Minchae Yun
+  major: Computer Science
+  email: yun69@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 2324/윤민채.jpeg
+
+- name: 백진욱
+  name_us: Jinwook paek
+  major: UAS(unmanned aerial systems)
+  email: paekj@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 2324/백진욱.jpeg
+
+- name: 정현식
+  name_us: Richard	Construction
+  major: Management
+  email: jung247@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 2324/정현식.jpeg
+
+- name: 고경명
+  name_us: Kyung Myung Ko
+  major: Computer Science
+  email: ko112@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 2324/고경명.jpeg
+
+- name: 김진
+  name_us: Gene Kim
+  major: Computer Science
+  email: kim3115@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 2324/김진.JPG
+
+- name: 장준
+  name_us: Jun Jang
+  major: PharmD	
+  email: jang91@purdue.edu
+  role:	리쿠르팅
+  role_us: Recruiting
+  image: 2324/장준.png
+
+- name: 임해나
+  name_us: Hannah Butler
+  major: Hospitality & Tourism Management
+  email: 	butle257@purdue.edu
+  role: 리쿠르팅
+  role_us: Recruiting
+  image: 2324/임해나.jpeg
