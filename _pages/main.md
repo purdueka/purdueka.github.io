@@ -32,6 +32,7 @@ Instagram(@pka_boilerup), Facebook, Twitter (@PurdueKorean), Web Page (purdueka.
 <center> <h2>Gold Sponsor</h2> </center>
 
 ![경동나비엔](/images/경동나비엔.png)
+![KSM](/images/ksm.gif)
 ![LG디스플레이](/images/LG디스플레이.jpg)
 
 ---
