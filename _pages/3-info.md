@@ -10,8 +10,7 @@ permalink: /info/
 ## 신입생 정보
 
 * [정착가이드](https://sites.google.com/view/purduelife/home?authuser=0)
-* [PKA 메일링 리스트 구독하기](https://lists.purdue.edu/mailman/listinfo/pka)
-* [2023 Purdue 한인 신입생 오픈 단체 카톡방](/assets/PKA%20메일링%20리스트%20가입하기.pdf)
+* [PKA 메일링 리스트 구독하기](/assets/PKA%20메일링%20리스트%20가입하기.pdf)
 
 ***
 ## Purdue 한인 동아리
